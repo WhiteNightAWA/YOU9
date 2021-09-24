@@ -1,0 +1,111 @@
+{
+  "main": {
+    "id": "4efe24c2bb6c1564",
+    "type": "split",
+    "children": [
+      {
+        "id": "094074fa91a2e370",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        },
+        "group": "7a0ccd22278a0def"
+      },
+      {
+        "id": "5574d6eae11ad2a2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "README.md",
+            "mode": "preview"
+          }
+        },
+        "group": "7a0ccd22278a0def"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9de4b00e18600315",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ed7d3e7d6ecdb7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95de75cf6a71b68f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "aa16300711bce797",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "54ed59aa6bffb378",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a52a78d04319b5a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b7b2b1c86a8c844",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "094074fa91a2e370",
+  "lastOpenFiles": [
+    "README.md",
+    "Server/Server.md",
+    "Reaction or Button Roles/Untitled.md",
+    "Timers/Untitled.md",
+    "Temporary channels/Untitled.md",
+    "Statistics/Untitled.md",
+    "Social Connectors/Untitled.md",
+    "Server/Untitled.md",
+    "Server/Welcome/Untitled.md",
+    "Server/Bye/Untitled.md"
+  ]
+}
